@@ -3,4 +3,4 @@ In this Project I analyzed and forecasted CO2 emissions of every country for the
 
 ---
 
-Tested diffrent machine learning algorithms here in [model_testing.ipynb](model_testing.ipynb) using data from India and best performing model came out to be Arima model using which then forecasted diffrent country data and stored in [Forecasted_CO2.csv](Forecasted_CO2.csv).
+Tested diffrent machine learning algorithms here in [model_testing.ipynb](model_testing.ipynb) using data from India and best performing model came out to be Arima model using which then forecasted diffrent country data using the same idea and looping through all countries ([getting_forecasted_data.ipynb](getting_forecasted_data.ipynb)) and stored in [Forecasted_CO2.csv](Forecasted_CO2.csv).
