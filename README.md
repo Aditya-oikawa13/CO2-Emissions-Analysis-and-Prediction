@@ -7,4 +7,4 @@ Tested diffrent machine learning algorithms here in [model_testing.ipynb](model_
 
 ---
 
-![](video_representation_of_visualization.gif)
+![](video_representation_of_visualization.mp4)
